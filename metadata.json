@@ -1,0 +1,10 @@
+
+{
+  "name": "Aura OS - Robotic Personal Intelligence",
+  "description": "A comprehensive personal assistant OS featuring a robotic UI, voice interaction, and integrated tool suite.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
